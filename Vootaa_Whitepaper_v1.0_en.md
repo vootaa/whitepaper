@@ -73,8 +73,8 @@ Cross-chain transfers are framed as "form transformations" rather than identical
 | Operation | Source Chain | Target Chain | Action | User experience |
 |-----------|--------------|--------------|--------|-----------------|
 | Intra-chain transfer | Any single chain | — | Standard transfer | Instant local movement |
-| $VOO_P → $VOO | Past → Present | Burn memorial tokens, mint present tokens | "Memory transformed into reality" |
-| $VOO_F → $VOO | Future → Present | Burn experimental tokens, mint present tokens | "Dreams brought into reality" |
+| $VOO_P → $VOO | Past | Present | Burn memorial tokens, mint present tokens | "Memory transformed into reality" |
+| $VOO_F → $VOO | Future | Present | Burn experimental tokens, mint present tokens | "Dreams brought into reality" |
 
 Transformations are mediated by inter-chain SPV proofs and contract mappings.
 

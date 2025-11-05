@@ -73,8 +73,8 @@ Les transferts inter‑chaînes sont présentés comme des « transformations de
 | Opération | Chaîne source | Chaîne cible | Action | Expérience utilisateur |
 |-----------|---------------|--------------|--------|------------------------|
 | Transfert intra‑chaîne | N'importe quelle chaîne | — | Transfert standard | Mouvement local instantané |
-| $VOO_P → $VOO | Passé → Présent | Brûler les jetons commémoratifs, frapper des jetons du présent | « La mémoire se transforme en réalité » |
-| $VOO_F → $VOO | Futur → Présent | Brûler les jetons expérimentaux, frapper des jetons du présent | « Les rêves deviennent réalité » |
+| $VOO_P → $VOO | Passé | Présent | Brûler les jetons commémoratifs, frapper des jetons du présent | « La mémoire se transforme en réalité » |
+| $VOO_F → $VOO | Futur | Présent | Brûler les jetons expérimentaux, frapper des jetons du présent | « Les rêves deviennent réalité » |
 
 Les transformations sont médiées par des preuves SPV inter‑chaînes et des mappings de contrats.
 

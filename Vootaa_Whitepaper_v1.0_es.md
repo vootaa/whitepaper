@@ -73,8 +73,8 @@ Las transferencias entre cadenas se enmarcan como "transformaciones de forma" en
 | Operación | Cadena origen | Cadena destino | Acción | Experiencia de usuario |
 |-----------|---------------|----------------|--------|------------------------|
 | Transferencia intra-cadena | Cualquier cadena única | — | Transferencia estándar | Movimiento local instantáneo |
-| $VOO_P → $VOO | Pasado → Presente | Quemar tokens conmemorativos, acuñar tokens de presente | "La memoria transformada en realidad" |
-| $VOO_F → $VOO | Futuro → Presente | Quemar tokens experimentales, acuñar tokens de presente | "Los sueños hechos realidad" |
+| $VOO_P → $VOO | Pasado | Presente | Quemar tokens conmemorativos, acuñar tokens de presente | "La memoria transformada en realidad" |
+| $VOO_F → $VOO | Futuro | Presente | Quemar tokens experimentales, acuñar tokens de presente | "Los sueños hechos realidad" |
 
 Las transformaciones están mediadas por pruebas SPV entre cadenas y mapeos de contratos.
 
