@@ -1,4 +1,4 @@
-# Vootaa Whitepaper v1.0
+# Vootaa Whitepaper v1.0 (English)
 
 ## A blockchain universe reborn from ruins
 

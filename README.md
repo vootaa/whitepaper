@@ -4,7 +4,12 @@ Vootaa is a new blockchain universe built on the technical heritage of Chainweb 
 
 Full whitepapers:
 - English: [Vootaa_Whitepaper_v1.0_en.md](Vootaa_Whitepaper_v1.0_en.md)
+- Français： [Vootaa_Whitepaper_v1.0_fr.md](Vootaa_Whitepaper_v1.0_fr.md)
+- Español： [Vootaa_Whitepaper_v1.0_es.md](Vootaa_Whitepaper_v1.0_es.md)
+- Português： [Vootaa_Whitepaper_v1.0_pt_pt.md](Vootaa_Whitepaper_v1.0_pt.md)
 - 中文（简体）：[Vootaa_Whitepaper_v1.0_zh_sc.md](Vootaa_Whitepaper_v1.0_zh_sc.md)
+- 中文（繁體）：[Vootaa_Whitepaper_v1.0_zh_tw.md](Vootaa_Whitepaper_v1.0_zh_tc.md)
+- 日本語： [Vootaa_Whitepaper_v1.0_ja.md](Vootaa_Whitepaper_v1.0_jp.md)
 
 Quick overview
 - Network: VooNet — three parallel chains symbolizing Past, Present, and Future (triangular topology, SPV-enabled).
@@ -25,9 +30,6 @@ Global naming
 
 Philosophy
 - Vootaa frames blockchain as cultural memory and creative infrastructure: blocks as layers of memory, will, and thought.
-
-How to read
-- For the full technical and narrative specification, open the English or Chinese whitepaper files in this folder.
 
 License
 - BSD 3-Clause (see whitepaper header).
